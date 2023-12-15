@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.910f9989.css",
+    "main.js": "/static/js/main.862c8a70.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/clipart.png": "/static/media/clipart.13c34acb15e6c3a7d6d2.png",
+    "static/media/ModalClipart.png": "/static/media/ModalClipart.69c777e5e11f5dc88c44.png",
+    "static/media/ATG logo.png": "/static/media/ATG logo.e44636e9280c8f379301.png",
+    "index.html": "/index.html",
+    "main.910f9989.css.map": "/static/css/main.910f9989.css.map",
+    "main.862c8a70.js.map": "/static/js/main.862c8a70.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910f9989.css",
+    "static/js/main.862c8a70.js"
+  ]
+}
